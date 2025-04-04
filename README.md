@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Dhwani
-Data Analyst
+Business Analyst
 
 
 
