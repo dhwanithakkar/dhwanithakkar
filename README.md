@@ -3,7 +3,8 @@ Business Analyst
 
 
 
-- 🌱 I’m currently working on **Power BI, Python, SQL, Excel**.
+- 🌱 I’m using **Power BI, Python, SQL, Excel**.
+- 🌱 I'm learning **Figma, Agile**.
 - 📫 How to reach me: dhwanithakkar2000@gmail.com
 
 ## Connect with me:
